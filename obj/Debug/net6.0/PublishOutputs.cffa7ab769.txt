@@ -1,0 +1,11 @@
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\DemoApi.exe
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\DemoApi.dll
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\DemoApi.deps.json
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\DemoApi.runtimeconfig.json
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\DemoApi.pdb
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\utpadutta\Projects\Learning\TestWebApp\DemoApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
